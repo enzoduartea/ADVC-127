@@ -1,0 +1,41 @@
+body
+{
+    background-color: rgb(108, 175, 243);
+    text-align: center;    
+}
+h1
+{
+    text-decoration:underline;
+    color: #fbfb77 ;
+}
+span
+{
+    color: rgb(46, 43, 226);
+    font-size: 30px;
+    background-color: #fbfb77; /* Cor de fundo desejada */
+    padding: 10px;
+
+}
+p
+{
+    color: rgb(46, 43, 226);
+}
+#tempo
+{
+    margin-right: 50px;
+    float: right;
+}
+#esboço_desenhado
+{
+    color: rgb(249, 95, 95);
+}
+#pontuacao
+{
+    margin-left: 50px;
+    float: left;
+    margin-top: 55px;
+}
+#hr1
+{
+   margin-top: 500px; 
+}
